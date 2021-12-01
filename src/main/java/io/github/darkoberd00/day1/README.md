@@ -1,7 +1,7 @@
 # Day 1: Sonar Sweep
 ![Türchen_1](https://3.bp.blogspot.com/--vJUYRaGFV4/WYszlmH-I6I/AAAAAAAACeo/MhcvJGlf4_cfMVZZxu9XluSb2LO9lkF-QCEwYBhgL/s1600/1.jpg)
 
-## Introduktion
+## Introduction
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
 Before you know it, you're inside a submarine the Elves keep ready for situations like this. It's covered in Christmas lights (because of course it is), and it even has an experimental antenna that should be able to track the keys if you can boost its signal strength high enough; there's a little meter that indicates the antenna's signal strength by displaying 0-50 **stars**.
@@ -51,6 +51,8 @@ In this example, there are ```7``` measurements that are larger than the previou
 
 _**How many measurements are larger than the previous measurement?**_
 
+**[Inputs](https://github.com/Darkoberd00/advent-of-code-2021/tree/master/src/main/resources)**
+
 ### PART TWO
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
@@ -86,3 +88,5 @@ H: 792 (increased)
 In this example, there are ```5``` sums that are larger than the previous sum.
 
 Consider sums of a three-measurement sliding window. _**How many sums are larger than the previous sum?**_
+
+**[Inputs](https://github.com/Darkoberd00/advent-of-code-2021/tree/master/src/main/resources)**
