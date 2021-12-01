@@ -51,6 +51,8 @@ In this example, there are ```7``` measurements that are larger than the previou
 
 _**How many measurements are larger than the previous measurement?**_
 
+**[Inputs](https://github.com/Darkoberd00/advent-of-code-2021/tree/master/src/main/resources)**
+
 ### PART TWO
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
@@ -86,3 +88,5 @@ H: 792 (increased)
 In this example, there are ```5``` sums that are larger than the previous sum.
 
 Consider sums of a three-measurement sliding window. _**How many sums are larger than the previous sum?**_
+
+**[Inputs](https://github.com/Darkoberd00/advent-of-code-2021/tree/master/src/main/resources)**
